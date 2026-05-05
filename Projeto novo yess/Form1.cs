@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -1002,7 +1002,7 @@ namespace Projeto_final_Novo_e_atualizado_certo
                     }
                     else
                     {
-                        int MAX = 0;
+                        int MAX = img1.GetPixel(i, j).R;
                         for (int x = 0; x < 3; x++)
                         {
                             for (int z = 0; z < 3; z++)
@@ -1041,7 +1041,7 @@ namespace Projeto_final_Novo_e_atualizado_certo
                     }
                     else
                     {
-                        int MIN = 255;
+                        int MIN = img1.GetPixel(i, j).R ;
                         for (int x = 0; x < 3; x++)
                         {
                             for (int z = 0; z < 3; z++)
