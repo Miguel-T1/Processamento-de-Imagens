@@ -1,0 +1,20 @@
+D:\Desktop\Projeto novo yess\bin\Debug\Projeto final Novo e atualizado certo.exe.config
+D:\Desktop\Projeto novo yess\bin\Debug\Projeto final Novo e atualizado certo.exe
+D:\Desktop\Projeto novo yess\bin\Debug\Projeto final Novo e atualizado certo.pdb
+D:\Desktop\Projeto novo yess\obj\Debug\Projeto final Novo e atualizado certo.csproj.AssemblyReference.cache
+D:\Desktop\Projeto novo yess\obj\Debug\Projeto_final_Novo_e_atualizado_certo.Properties.Resources.resources
+D:\Desktop\Projeto novo yess\obj\Debug\Projeto_final_Novo_e_atualizado_certo.Form1.resources
+D:\Desktop\Projeto novo yess\obj\Debug\Projeto final Novo e atualizado certo.csproj.GenerateResource.cache
+D:\Desktop\Projeto novo yess\obj\Debug\Projeto final Novo e atualizado certo.csproj.CoreCompileInputs.cache
+D:\Desktop\Projeto novo yess\obj\Debug\Projeto final Novo e atualizado certo.exe
+D:\Desktop\Projeto novo yess\obj\Debug\Projeto final Novo e atualizado certo.pdb
+C:\Users\monte\OneDrive\Desktop\Projeto novo yess\bin\Debug\Projeto final Novo e atualizado certo.exe.config
+C:\Users\monte\OneDrive\Desktop\Projeto novo yess\bin\Debug\Projeto final Novo e atualizado certo.exe
+C:\Users\monte\OneDrive\Desktop\Projeto novo yess\bin\Debug\Projeto final Novo e atualizado certo.pdb
+C:\Users\monte\OneDrive\Desktop\Projeto novo yess\obj\Debug\Projeto final Novo e atualizado certo.csproj.AssemblyReference.cache
+C:\Users\monte\OneDrive\Desktop\Projeto novo yess\obj\Debug\Projeto_final_Novo_e_atualizado_certo.Properties.Resources.resources
+C:\Users\monte\OneDrive\Desktop\Projeto novo yess\obj\Debug\Projeto_final_Novo_e_atualizado_certo.Form1.resources
+C:\Users\monte\OneDrive\Desktop\Projeto novo yess\obj\Debug\Projeto final Novo e atualizado certo.csproj.GenerateResource.cache
+C:\Users\monte\OneDrive\Desktop\Projeto novo yess\obj\Debug\Projeto final Novo e atualizado certo.csproj.CoreCompileInputs.cache
+C:\Users\monte\OneDrive\Desktop\Projeto novo yess\obj\Debug\Projeto final Novo e atualizado certo.exe
+C:\Users\monte\OneDrive\Desktop\Projeto novo yess\obj\Debug\Projeto final Novo e atualizado certo.pdb
